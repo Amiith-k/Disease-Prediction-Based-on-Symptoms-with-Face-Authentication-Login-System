@@ -1,0 +1,2 @@
+# Disease-Prediction-Based-on-Symptoms-with-Face-Authentication-Login-System
+This project develops an intelligent disease prediction system using patient symptoms and machine learning (Naive Bayes) to predict possible diseases. It integrates secure face authentication using OpenCV and LBPH for user login, enabling early disease detection, secure access, and timely medical consultation to improve healthcare outcomes.
